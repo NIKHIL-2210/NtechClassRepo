@@ -1,0 +1,3 @@
+
+Git is a free, open-source version control system (VCS) that allows users to store code, track changes, and revert to previous versions. It's the most widely used VCS in the world and is considered the modern standard for software development.
+
