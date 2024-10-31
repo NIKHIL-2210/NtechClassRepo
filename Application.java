@@ -17,7 +17,7 @@ public class SimpleMethodExample {
     }
 }
 
-#Feature201 changes by Vivek for the Service Module in HDFC Project in Oct 2023
+#Feature201 Changes by Vivek for the Service Module in HDFC Project in Oct 2023
 public class MyClass {
 
     // Public field
@@ -40,4 +40,4 @@ public class MyClass {
         myObject.publicMethod();
     }
 }
-#Close the method for Feature201
+#Close the Method for Feature201
