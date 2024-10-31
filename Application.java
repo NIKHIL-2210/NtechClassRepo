@@ -16,3 +16,23 @@ public class SimpleMethodExample {
         System.out.println("The sum is: " + result);
     }
 }
+
+#Feature202 changes by Ethan for Reports Module
+ public static double calculateRectangleArea(double length, double width) {
+        double area = length * width;
+        return area;
+    }
+
+    public static void main(String[] args) {
+        // Example of using the method
+        double length = 5.0;
+        double width = 3.0;
+
+        // Calling the method
+        double result = calculateRectangleArea(length, width);
+
+        // Displaying the result
+        System.out.println("The area of the rectangle with length " + length + " and width " + width + " is: " + result);
+    }
+}
+#Close the methods for Feature202
